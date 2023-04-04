@@ -1,4 +1,4 @@
-# File-Encryptor-Decryptor
+# File Encryptor Decryptor
 
 - To encrypt a perticular file use encrypt.py
 
