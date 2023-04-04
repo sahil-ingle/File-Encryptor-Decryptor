@@ -1,6 +1,8 @@
 # File-Encryptor-Decryptor
 
-Use encrypt.py to encrypt any file
-Use Decrypt.py to Decrypt the encrypted file
+- To encrypt a perticular file use encrypt.py
 
-#note - Don't use main.py file its for testing
+- To decrypt that file use encrypt.py
+
+# Note
+- Don't use main.py file its for testing
