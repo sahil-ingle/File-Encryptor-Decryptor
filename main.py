@@ -116,6 +116,7 @@ hex2file("hex_data_opt.txt","output.png")
 
 
 
+
 img = Image.open('github.png', 'r')
 
 #pix_val = list(img.getdata())
